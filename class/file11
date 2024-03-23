@@ -1,0 +1,13 @@
+Create a new repository on GitHub by selecting initialize this repository with README.
+Clone repository using below commands
+git clone paste the url
+create a user deatails { git config --global user.name "bharath"
+			git config --global user.email "dasari2208@gmail.com"}
+create a directory
+enter a directory
+create afile and write a code 
+add the file 
+commit the file
+check the status
+go tp the url and check the project
+
